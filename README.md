@@ -2,6 +2,8 @@
 
 Calculate word counts in a text file!
 
+_Note: This is a toy package developed as part of DSCI 524 coursework. It follows the instructions described in the [Python packages textbook](https://py-pkgs.org/03-how-to-package-a-python)._
+
 ## Installation
 
 ```bash
